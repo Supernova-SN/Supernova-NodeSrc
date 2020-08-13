@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.aspectj:aspectjtools:1.8.13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjtools/1.8.13/fc96d164ef52f222faa496cedaea07f27cc83e74/aspectjtools-1.8.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjtools/1.8.13/87f60b4d17df8354a495aa1b3459c5cf3ad45507/aspectjtools-1.8.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

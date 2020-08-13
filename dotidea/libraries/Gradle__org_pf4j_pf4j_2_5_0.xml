@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.pf4j:pf4j:2.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pf4j/pf4j/2.5.0/65d5e0bcf9225fc98a42a06880fe00819bc4a60f/pf4j-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pf4j/pf4j/2.5.0/f3952a780453e1faa99c626b8b6ba548b09dd92c/pf4j-2.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

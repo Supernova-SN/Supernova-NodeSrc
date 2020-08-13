@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.rocksdb:rocksdbjni:5.15.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rocksdb/rocksdbjni/5.15.10/6f8e20dd17ba145052a6bd49d5136ab0bc0a2/rocksdbjni-5.15.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rocksdb/rocksdbjni/5.15.10/9faffaaff1eae7a28a061ad09ec03ce4c890e75c/rocksdbjni-5.15.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
