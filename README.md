@@ -5,3 +5,5 @@ In the Supernova dual-chain system, the application chain adopts the DPOS + PBFT
 1. Inclusive participation allows more users to enter the field of cryptocurrency.
 2. Give full play to the efficient and transparent role of the decentralized system to achieve credible circulation of assets on different chains.
 3. Help the implementation of blockchain projects and realize more blockchain application services.
+
+Website: www.supernovas.org
